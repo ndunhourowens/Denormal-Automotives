@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS car_models
   year integer NOT NULL
 );
 
+
 INSERT INTO car_models VALUES
 ('ACURA','Acura','CL_MODELS','CL Models (4)',2000),
 ('ACURA','Acura','CL_MODELS','CL Models (4)',2001),
